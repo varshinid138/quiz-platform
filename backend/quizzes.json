@@ -1,0 +1,52 @@
+[
+  {
+    "topic": "Technical",
+    "questions": [
+      {
+        "question": "What is otp",
+        "options": [
+          "one time password",
+          "one",
+          "time",
+          "password"
+        ],
+        "correctAnswer": "one time password"
+      },
+      {
+        "question": "what is oops",
+        "options": [
+          "object orrientiation Programming",
+          "object",
+          "orientiation",
+          "program"
+        ],
+        "correctAnswer": "object orrientiation Programming"
+      }
+    ]
+  },
+  {
+    "topic": "Technical",
+    "questions": [
+      {
+        "question": "What is otp",
+        "options": [
+          "One time password",
+          "one ",
+          "password",
+          "time"
+        ],
+        "correctAnswer": "One time password"
+      },
+      {
+        "question": "What is oops",
+        "options": [
+          "object",
+          "Programming",
+          "Language",
+          "Object Orientatiation Programming"
+        ],
+        "correctAnswer": "Object Orientatiation Programming"
+      }
+    ]
+  }
+]
